@@ -9,6 +9,7 @@ namespace Aluguel.Models
     internal class Quarto
     {
         public int NumQuarto { get; set; }
+        public Boolean Ocupado { get; set; }
 
         public Quarto(int numeroQuarto)
         {
