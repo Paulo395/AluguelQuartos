@@ -4,16 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aluguel.Models
+namespace SolucaoAluguel.Models
 {
     internal class Quarto
     {
         public int NumQuarto { get; set; }
-        public Boolean Ocupado { get; set; }
+        public bool Ocupado { get; set; }
 
-        public Quarto(int numeroQuarto)
+        public Quarto(int NumQuarto)
         {
-            NumQuarto = numeroQuarto;
+            NumQuarto = NumQuarto;
+        }
+
+        public override string ToString()
+        {
+            return "Quarto número " + NumQuarto + " está " + Ocupado + "\n";
         }
     }
 }

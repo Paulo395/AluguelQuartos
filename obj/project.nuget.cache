@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5KdE7oj35PSprQXIb1i3v0jtuReDZvZcycpGUuvyqdwhIXMMh9eiCGiAcWfibufs1uyRDId+tdqn0JBc5yH4A==",
+  "dgSpecHash": "hff12ua+R7FLmEJu3i78GH10lAeC1X4ARZKxtTvSLqW0XogAcsLUSV0nqiUIzsyN7qkXNnh3t6etDvoLpYaKqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pauli\\source\\repos\\Aluguel\\Aluguel\\Aluguel.csproj",
+  "projectFilePath": "C:\\Users\\pauli\\source\\repos\\Aluguel\\Aluguel\\SolucaoAluguel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pauli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\pauli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",

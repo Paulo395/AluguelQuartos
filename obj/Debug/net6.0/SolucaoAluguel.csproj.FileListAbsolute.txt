@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\Aluguel\Aluguel\bin\Debug\net6.0\SolucaoAluguel.exe
+C:\Users\pauli\source\repos\Aluguel\Aluguel\bin\Debug\net6.0\SolucaoAluguel.deps.json
+C:\Users\pauli\source\repos\Aluguel\Aluguel\bin\Debug\net6.0\SolucaoAluguel.runtimeconfig.json
+C:\Users\pauli\source\repos\Aluguel\Aluguel\bin\Debug\net6.0\SolucaoAluguel.dll
+C:\Users\pauli\source\repos\Aluguel\Aluguel\bin\Debug\net6.0\SolucaoAluguel.pdb
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\SolucaoAluguel.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\SolucaoAluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\SolucaoAluguel.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\SolucaoAluguel.AssemblyInfo.cs
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\SolucaoAluguel.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\SolucaoAluguel.dll
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\refint\SolucaoAluguel.dll
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\SolucaoAluguel.pdb
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\SolucaoAluguel.genruntimeconfig.cache
+C:\Users\pauli\source\repos\Aluguel\Aluguel\obj\Debug\net6.0\ref\SolucaoAluguel.dll

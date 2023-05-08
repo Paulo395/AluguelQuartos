@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pauli\\source\\repos\\Aluguel\\Aluguel\\Aluguel.csproj",
-      "projectName": "Aluguel",
-      "projectPath": "C:\\Users\\pauli\\source\\repos\\Aluguel\\Aluguel\\Aluguel.csproj",
+      "projectUniqueName": "C:\\Users\\pauli\\source\\repos\\Aluguel\\Aluguel\\SolucaoAluguel.csproj",
+      "projectName": "SolucaoAluguel",
+      "projectPath": "C:\\Users\\pauli\\source\\repos\\Aluguel\\Aluguel\\SolucaoAluguel.csproj",
       "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pauli\\source\\repos\\Aluguel\\Aluguel\\obj\\",
       "projectStyle": "PackageReference",

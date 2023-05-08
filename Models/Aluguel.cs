@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aluguel.Models
+namespace SolucaoAluguel.Models
 {
     internal class Aluguel
     {
