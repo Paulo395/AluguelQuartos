@@ -10,10 +10,7 @@ namespace SolucaoAluguel // Note: actual namespace depends on the project name.
         {
             List<Quarto> listaQ = new List<Quarto>();
             List<Estudante> listaE = new List<Estudante>();
-
-            Estudante e = new Estudante();
-            Quarto[] quartos = new Quarto[10];
-
+            List<Aluguel> listaAl = new List<Aluguel>();
 
             Console.Write("Quantos estudantes iram alugar um quarto: ");
             byte n = byte.Parse(Console.ReadLine());
@@ -22,35 +19,23 @@ namespace SolucaoAluguel // Note: actual namespace depends on the project name.
             {
                 for (int i = 0; i < n; i++)
                 {
-                    listaE.Add(e.CadastroEstudante());
-
-                    while (true)
-                    {
-                        Console.Write("Digite o quarto que deseja alugar: ");
-                        byte q = byte.Parse(Console.ReadLine());
-
-                        if (q >= 1 && q <= 10)
-                        {
-                            if (quartos[q].Ocupado == false)
-                            {
-                                Console.WriteLine("O quarto pode ser alugado!");
-                                quartos[q].NumQuarto = q;
-                                quartos[q].Ocupado = true;
-                                break;
-                            }
-                            else
-                            {
-                                Console.WriteLine("O quarto não pode ser alugado!\nEscolha outra opção");
-                            }
-                        }
-                    }
-                    Aluguel arrayAl = new Aluguel(listaE[i], listaQ[i]);
+                    listaE.Add(new Estudante().CadastroEstudante());
+                    listaQ.Add(new Quarto(i));
+                    listaAl.Add(new Aluguel(listaE[i], listaQ[i]));
                 }
+
             }
             else
             {
                 Console.WriteLine("Quantidade de quartos insuficiente!");
             }
+            foreach (var item in listaAl) Console.WriteLine(item);
+
         }
     }
+    //public static bool ValorValido(int num)
+    //{
+    //    if (num > 0 && num <10 ) return true;
+    //    return false;
+    //}
 }

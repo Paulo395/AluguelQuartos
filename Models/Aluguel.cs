@@ -12,6 +12,10 @@ namespace SolucaoAluguel.Models
         public Quarto Quarto { get; set; }
         public int NumQuarto { get; set; }
 
+        public Aluguel()
+        {
+        }
+
         public Aluguel(Estudante estudante, Quarto quarto)
         {
             Estudante = estudante;
